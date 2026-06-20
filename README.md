@@ -6,22 +6,22 @@ A solução foi desenvolvida utilizando o **Power BI**, aplicando modelagem trid
 
 ---
 
-## 📺 Apresentação Executiva (Vídeo de 5 Minutos)
+## 📺 Apresentação Executiva
 
 Conforme os requisitos de comunicação executiva estabelecidos para o desafio, gravamos um vídeo de defesa técnica direcionado ao corpo diretivo (C-Level). O vídeo aborda as dores identificadas, os dados coletados, os insights extraídos e as recomendações financeiras acionáveis.
 
-▶️ [**Assistir à Apresentação Executiva no YouTube**](https://www.youtube.com) *(Substitua este link pelo link real do seu vídeo)*
+▶️ [**Assistir à Apresentação Executiva no YouTube**](https://youtu.be/7mBRmpWqmZM)
 
 ---
 
 ## 👥 Autores do Projeto
 
 O trabalho foi idealizado, higienizado e desenvolvido de forma colaborativa pelos integrantes:
-* **Jailson da Rosa Barduino**
 * **David da Silva Batista**
+* **Jailson da Rosa Barduino**
 * **Leonardo José da Silva**
-* **Yara Maria Santos Morais**
 * **Raíssa Vaz Viriato**
+* **Yara Maria Santos Morais**
 
 ---
 
