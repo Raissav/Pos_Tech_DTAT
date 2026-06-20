@@ -10,7 +10,7 @@ A solução foi desenvolvida utilizando o **Power BI**, aplicando modelagem trid
 
 Conforme os requisitos de comunicação executiva estabelecidos para o desafio, gravamos um vídeo de defesa técnica direcionado ao corpo diretivo (C-Level). O vídeo aborda as dores identificadas, os dados coletados, os insights extraídos e as recomendações financeiras acionáveis.
 
-▶️ [**Assistir à Apresentação Executiva no YouTube**](Link do vídeo: https://youtu.be/7mBRmpWqmZM)
+▶️ [**Assistir à Apresentação Executiva no YouTube**](https://www.youtube.com) *(Substitua este link pelo link real do seu vídeo)*
 
 ---
 
@@ -27,10 +27,14 @@ O trabalho foi idealizado, higienizado e desenvolvido de forma colaborativa pelo
 
 ## 📁 Estrutura de Pastas do Repositório
 
-A arquitetura deste repositório reflete os pilares de **Governança de Dados e Reprodutibilidade**, organizados logicamente da seguinte forma:
+A arquitetura deste repositório foi planejada seguindo critérios rigorosos de **Governança de Dados**, separando o ciclo de vida do projeto em diretórios específicos:
 
 ```text
-o- olist-ecommerce-analytics/
-    ├── pbix/                     # Painel interativo do Power BI (.pbix)
-    ├── docs/                     # Apresentação de slides em PDF entregue à banca
-    └── README.md                 # Visão geral e documentação do projeto
+Pos_Tech_DTAT/
+    ├── 📁 Dados/                                                # Base de dados transacionais completa (Arquivos Olist .csv)
+    ├── 📁 Proposta/                                             # Documentação oficial e diretrizes do desafio (PDF do TC1)
+    ├── 📁 Relatórios/                                           # Entregáveis de comunicação executiva
+    │   ├── Relatório Estratégico Olist.pdf                      # Slides de suporte utilizados no vídeo de defesa
+    │   └── Tech Challenge - Relatório Olist.pdf                 # Relatório analítico aprofundado para acionistas
+    ├── fase_1_1_tech_challenge_base_relatorio_executivo.ipynb   # Script de ETL/Análise exploratória inicial (fora das pastas)
+    └── README.md                                                # Visão geral e guia de navegação do projeto
